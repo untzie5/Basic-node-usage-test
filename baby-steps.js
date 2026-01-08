@@ -1,1 +1,3 @@
-console.log(ProcessingInstruction.argv);
+
+
+console.log(process.argv);
